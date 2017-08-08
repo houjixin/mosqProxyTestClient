@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/xyz/mosq/client=UTF-8
+encoding//src/com/xyz/mosq/client/PahoMqttClient.java=UTF-8
+encoding//src/com/xyz/mosq/proxy/tester/common/DefaultValues.java=UTF-8
+encoding//src/com/xyz/mosq/proxy/tester/pojo/BaseResult.java=UTF-8
+encoding//src/com/xyz/mosq/proxy/tester/pojo/ClientStatus.java=UTF-8
+encoding//src/com/xyz/mosq/proxy/tester/pojo/ConnectionInfo.java=UTF-8
+encoding//src/com/xyz/mosq/proxy/tester/pojo/RegResult.java=UTF-8
+encoding//src/com/xyz/mosq/proxy/tester/pojo/SystemMsg.java=UTF-8
+encoding/<project>=UTF-8
